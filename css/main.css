@@ -1,0 +1,72 @@
+
+
+.theoryQuesContainer{
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.theoryMainQuestion{
+  width: 90%;
+  background-color: #fff;
+  border: dashed 1px;
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+
+.theoryMainQuestion p {
+  padding: 20px;
+}
+
+.theoryQuestionHeader{
+  border: solid  1px;
+  background-color: #f4c9cf;
+}
+
+.stand-out-pt  {
+  font-style: italic;
+  font-family: Georgia, Times, serif;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 20px;
+
+}
+
+.AnswerContainer{
+  background-color: #fff;
+  border: solid 1px;
+  display: none;
+}
+
+.AnswerHeader{
+  border-bottom: dashed 1px;
+  background-color: #fcf8e3;
+  margin-left: 0px;
+}
+
+
+/* Set paragraph font styling */
+p {
+    font-family: 'Droid Sans', sans-serif;
+    font-size: 18px;
+    color: #555;
+    line-height: 30px;
+    text-align: justify;
+}
+
+p ~ ul{
+    font-family: 'Droid Sans', sans-serif;
+    font-size: 16px;
+    line-height: 30px;
+}
+
+.content-width{
+    margin: 25px auto;
+    text-align: left;
+    width: 90%;
+}
+
+p ~ h3{
+    color:#d3452a;
+    font-family: 'Droid Sans', sans-serif;
+    font-weight:bold;
+  }
