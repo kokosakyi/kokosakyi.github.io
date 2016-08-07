@@ -1,4 +1,6 @@
-
+.makeBold{
+  font-weight: bold;
+}
 
 .theoryQuesContainer{
   margin: 0 auto;
